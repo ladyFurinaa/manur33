@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+  <p align="center">
+  <img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
+</p>
+</div>
 
-<!--
-**manur33/manur33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Kon'nichiwa, Fellow Coders! 👾✨
+"In the vast realm of code, I am the protagonist of my own saga, forging paths through the digital cosmos." 🚀💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Skills 🔥
+
+## My Powers
+
+* Swift Swordsmanship: Crafting elegant and powerful iOS applications.
+* TypeScript Tactics: Strategizing with type-safe scripts for scalable solutions.
+* JavaScript Jutsu: Mastery of the shadow DOM and dynamic web development.
+* Python Power: Summoning serpentine scripts with ease and efficiency.
+* C++ Chakra: Channeling the power of performance and precision.
+
+</a>
