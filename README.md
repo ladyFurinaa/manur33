@@ -5,8 +5,8 @@
 </div>
 
 
-# Kon'nichiwa, Fellow Coders! 👾✨
-"In the vast realm of code, I am the protagonist of my own saga, forging paths through the digital cosmos." 🚀💻
+# Hey  👾✨
+ 🚀💻
 
 
 # Skills 🔥
